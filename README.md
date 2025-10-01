@@ -1,9 +1,9 @@
-# websites
-Website portfolio. Links to external sites I created.
+# Websites  
 
-https://www.properoccasionson.ca/home
+#### The following sites were designed and are maintained by me:
+- Event planning small business: https://www.properoccasionson.ca/home
 
-https://www.uottawabgsa.ca/home 
-
-The following site is no longer managed by me and edits have been made after my initial work:  
+#### The following sites were designed but are no longer managed by me:
+- Biology Graduate Student Association at University of Ottawa: https://www.uottawabgsa.ca/home  
+- Licensed Cannabis Producer:
 https://www.mariwell.ca/home 
